@@ -102,10 +102,11 @@
                     <li><a href="it_service_detail.html">Services Detail</a></li>
                   </ul>
                 </li>
-				<li><a href="it_about.html">Our Products</a></li>
+				<li><a href="it_product.html">Our Products</a></li>
 				<ul>
-                    <li><a href="it_service_list.html">Products list</a></li>
-				</ul>	
+                    <li><a href="it_product_list.html">Products list</a></li>
+					<li><a href="it_product_detail.html">Products Detail</a></li>
+				</ul>		
                 <li> <a href="it_blog.html">Blog</a>
                   <ul>
                     <li><a href="it_blog.html">Blog List</a></li>
@@ -193,9 +194,9 @@
           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
             standard dummy text ever since the 1500s, when an unknown printer took a galley..</p>
           <ul>
-            <li><i class="fa fa-check-circle"></i>Persius appetere pro mea harum ridens</li>
-            <li><i class="fa fa-check-circle"></i>Instructior vis at causae legimus luptatum mel</li>
-            <li><i class="fa fa-check-circle"></i>Maluisset id persius appetere pro mea harum</li>
+            <li><i class="fa fa-check-circle"></i>Your One-Stop Shop for All Your Business Needs</li>
+            <li><i class="fa fa-check-circle"></i>Our Comprehensive Services</li>
+            <li><i class="fa fa-check-circle"></i>Our Expert Team</li>
           </ul>
         </div>
       </div>
@@ -203,7 +204,7 @@
         <div class="full text_align_center"> <img class="img-responsive" src="images/it_service/post-06.jpg" alt="#" /> </div>
       </div>
     </div>
-    <!--<div class="row" style="margin-top: 35px">
+    <div class="row" style="margin-top: 35px">
       <div class="col-md-8">
         <div class="full margin_bottom_30">
           <div class="accordion border_circle">
@@ -211,41 +212,41 @@
               <div class="panel-group" id="accordion">
                 <div class="panel panel-default">
                   <div class="panel-heading">
-                    <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><i class="fa fa-bar-chart" aria-hidden="true"></i> Complete Recovery from Local & External Drive<i class="fa fa-angle-down"></i></a> </p>
+                    <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><i class="fa fa-bar-chart" aria-hidden="true"></i> Your One-Stop Shop for All Your Business Needs<i class="fa fa-angle-down"></i></a> </p>
                   </div>
-                  <div id="collapseOne" class="panel-collapse collapse in">
+                  <!--<div id="collapseOne" class="panel-collapse collapse in">-->
                     <div class="panel-body">
-                      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it 
-                        over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, 
-                        consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
+                      <p>Welcome to the Whizzstar Technologies Pte Ltd,. Solution Provider, your one-stop shop for all your business needs. We are a team of professionals dedicated to providing comprehensive services to help businesses succeed. </p>
+                       <p>Our approach is simple we work closely with our clients to understand their unique needs and provide customized solutions that meet their goals. 
+						 With years of experience and a proven track record of success, we have established ourselves as a trusted partner for businesses of all sizes..</p>
                     </div>
-                  </div>
+                  <!--</div> -->
                 </div>
                 <div class="panel panel-default">
                   <div class="panel-heading">
-                    <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"><i class="fa fa-plane"></i> Recovery Photo, Image, Video and Audio<i class="fa fa-angle-down"></i></a> </p>
+                    <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"><i class="fa fa-plane"></i> Our Comprehensive Services<i class="fa fa-angle-down"></i></a> </p>
                   </div>
-                  <div id="collapseTwo" class="panel-collapse collapse">
+                  <!--<div id="collapseTwo" class="panel-collapse collapse"> -->
                     <div class="panel-body">
-                      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it 
-                        over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, 
-                        consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
+                      <p>Our solution provider offers a wide range of services to help businesses succeed. From Sales and Marketing to IT support and Digital Solutions, we have you covered. Our team of experts can handle any challenge and provide customized solutions to meet your unique needs.</p>
+                       <p>We understand that every business is different and requires tailored solutions. That's why we offer a variety of services, including strategy development, project management, and ongoing support. 
+                         Whether you need help with a one-time project or ongoing support, we can provide the expertise you need to achieve your goals..</p>
                     </div>
-                  </div>
+                  <!--</div> -->
                 </div>
                 <div class="panel panel-default">
                   <div class="panel-heading">
-                    <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree"><i class="fa fa-star"></i> Mobile Phone Recovery<i class="fa fa-angle-down"></i></a> </p>
+                    <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree"><i class="fa fa-star"></i> Our Expert Team<i class="fa fa-angle-down"></i></a> </p>
                   </div>
-                  <div id="collapseThree" class="panel-collapse collapse">
+                  <!--<div id="collapseThree" class="panel-collapse collapse"> -->
                     <div class="panel-body">
-                      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it 
-                        over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, 
-                        consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
+                      <p>Our team is comprised of highly skilled professionals who are experts in their respective fields. From marketing and sales to technology, our team has the knowledge and experience necessary to provide top-notch solutions for your business needs. </p>
+                       <p>Each member of our team brings a unique set of skills and experiences to the table, allowing us to approach each project with a fresh perspective. 
+                         We pride ourselves on our ability to work collaboratively and efficiently to deliver results that exceed our clients' expectations..</p>
                     </div>
-                  </div>
+                  <!--</div> -->
                 </div>
-                <div class="panel panel-default">
+                 <!--<div class="panel panel-default">
                   <div class="panel-heading">
                     <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour"><i class="fa fa-bar-chart" aria-hidden="true"></i> Complete Recovery from Local & External Drive<i class="fa fa-angle-down"></i></a> </p>
                   </div>
@@ -256,13 +257,13 @@
                         consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
                     </div>
                   </div>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="col-md-4">
+      <!--<div class="col-md-4">
         <div class="full" style="margin-top: 35px;">
           <h3>Need file recovery?</h3>
           <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et 
