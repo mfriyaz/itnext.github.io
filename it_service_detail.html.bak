@@ -102,11 +102,11 @@
                     <li><a href="it_service_detail.html">Services Detail</a></li>
                   </ul>
                 </li>
-				<li><a href="it_about.html">Our Products</a></li>
+				<li><a href="it_product.html">Our Products</a></li>
 				<ul>
-                    <li><a href="it_service_list.html">Products list</a></li>
-					<li><a href="it_service_detail.html">Products Detail</a></li>
-				</ul>	
+                    <li><a href="it_product_list.html">Products list</a></li>
+					<li><a href="it_product_detail.html">Products Detail</a></li>
+				</ul>		
                 <li> <a href="it_blog.html">Blog</a>
                   <ul>
                     <li><a href="it_blog.html">Blog List</a></li>
