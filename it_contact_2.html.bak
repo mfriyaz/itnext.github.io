@@ -102,10 +102,10 @@
                     <li><a href="it_service_detail.html">Services Detail</a></li>
                   </ul>
                 </li>
-				<li><a href="it_about.html">Our Products</a></li>
+				<li><a href="it_product.html">Our Products</a></li>
 				<ul>
-                    <li><a href="it_service_list.html">Products list</a></li>
-					<li><a href="it_service_detail.html">Products Detail</a></li>
+                    <li><a href="it_product_list.html">Products list</a></li>
+					<li><a href="it_product_detail.html">Products Detail</a></li>
 				</ul>	
                 <li> <a href="it_blog.html">Blog</a>
                   <ul>
@@ -389,7 +389,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="main-heading left_text">
-              <h2>Whizzstar Pte Ltd</h2>
+              <h2>Twintics Solution Sdn Bhd</h2>
             </div>
             <p>Tincidunt elit magnis nulla facilisis. Dolor sagittis maecenas. Sapien nunc amet ultrices, dolores sit ipsum velit purus aliquet, massa fringilla leo orci.</p>
             <!--<ul class="social_icons">
