@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="viewport" content="initial-scale=1, maximum-scale=1">
 <!-- site metas -->
-<title>Whizzstar</title>
+<title>Twintics</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
 <meta name="author" content="">
@@ -50,7 +50,7 @@
             <div class="topbar-left">
               <ul class="list-inline">
                <!-- <li> <span class="topbar-label"><i class="fa  fa-home"></i></span> <span class="topbar-hightlight">540 Lorem Ipsum New York, AB 90218</span> </li> -->
-                <li> <span class="topbar-label"><i class="fa fa-envelope-o"></i></span> <span class="topbar-hightlight"><a href="mailto:admin@whizzstar.com">admin@whizzstar.com</a></span> </li>
+                <li> <span class="topbar-label"><i class="fa fa-envelope-o"></i></span> <span class="topbar-hightlight"><a href="mailto:admin@twintics.com">admin@twintics.com</a></span> </li>
               </ul>
             </div>
           </div>
@@ -281,7 +281,7 @@
             <div class="full">
               <div class="service_blog_inner">
                 <div class="icon text_align_left"><img src="images/it_service/si1.png" alt="#"></div>
-                <h4 class="service-heading">Fast service</h4>
+                <h4 class="service-heading">E-Brochure Management</h4>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo.</p>
               </div>
             </div>
@@ -290,7 +290,7 @@
             <div class="full">
               <div class="service_blog_inner">
                 <div class="icon text_align_left"><img src="images/it_service/si2.png" alt="#"></div>
-                <h4 class="service-heading">Secure payments</h4>
+                <h4 class="service-heading">E-PTW (Permit to Work)</h4>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo.</p>
               </div>
             </div>
@@ -299,12 +299,12 @@
             <div class="full">
               <div class="service_blog_inner">
                 <div class="icon text_align_left"><img src="images/it_service/si3.png" alt="#"></div>
-                <h4 class="service-heading">Expert team</h4>
+                <h4 class="service-heading">Room/Table Booking System</h4>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo.</p>
               </div>
             </div>
           </div>
-          <div class="col-md-12">
+          <!--<div class="col-md-12">
             <div class="full" style="margin-top: 15px;">
               <h3>Need file recovery?</h3>
               <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et 
@@ -312,7 +312,7 @@
               <p><a class="btn main_bt" href="#">Read More</a></p>
             </div>
           </div>
-        </div>
+        </div> -->
         <div class="row">
           <div class="col-md-12">
             <div class="full">
