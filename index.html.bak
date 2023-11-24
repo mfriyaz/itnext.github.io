@@ -242,7 +242,7 @@
               <img src="images/it_service/slide2.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
               <!-- LAYERS -->
               <!-- LAYER NR. BG -->
-              <div class="tp-caption tp-shape tp-shapewrapper   rs-parallaxlevel-0" 
+              <!--<div class="tp-caption tp-shape tp-shapewrapper   rs-parallaxlevel-0" 
                               id="slide-270-layer-101" 
                               data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                               data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
@@ -256,9 +256,9 @@
                               data-basealign="slide" 
                               data-responsive_offset="on" 
                               data-responsive="off"
-                              style="z-index: 5;background-color:rgba(0, 0, 0, 0.25);border-color:rgba(0, 0, 0, 0.50);"> </div>
+                              style="z-index: 5;background-color:rgba(0, 0, 0, 0.25);border-color:rgba(0, 0, 0, 0.50);"> </div> -->
               <!-- LAYER NR. 1 -->
-              <div class="tp-caption tp-shape tp-shapewrapper   tp-resizeme rs-parallaxlevel-0" 
+              <!--<div class="tp-caption tp-shape tp-shapewrapper   tp-resizeme rs-parallaxlevel-0" 
                               id="slide-18-layer-91" 
                               data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                               data-y="['middle','middle','middle','middle']" data-voffset="['15','15','15','15']" 
@@ -272,7 +272,7 @@
                               data-mask_out="x:inherit;y:inherit;" 
                               data-start="2000" 
                               data-responsive_offset="on" 
-                              style="z-index: 5;background-color:rgba(29, 29, 29, 0.85);border-color:rgba(0, 0, 0, 0.50);"> </div>
+                              style="z-index: 5;background-color:rgba(29, 29, 29, 0.85);border-color:rgba(0, 0, 0, 0.50);"> </div> -->
               <!-- LAYER NR. 2 -->
               <div class="tp-caption NotGeneric-Title   tp-resizeme rs-parallaxlevel-0" 
                               id="slide-18-layer-11" 
@@ -318,7 +318,7 @@
               <img src="images/it_service/slide3.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
               <!-- LAYERS -->
               <!-- LAYER NR. BG -->
-              <div class="tp-caption tp-shape tp-shapewrapper   rs-parallaxlevel-0" 
+             <!-- <div class="tp-caption tp-shape tp-shapewrapper   rs-parallaxlevel-0" 
                               id="slide-270-layer-10" 
                               data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                               data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
@@ -332,9 +332,9 @@
                               data-basealign="slide" 
                               data-responsive_offset="on" 
                               data-responsive="off"
-                              style="z-index: 5;background-color:rgba(0, 0, 0, 0.25);border-color:rgba(0, 0, 0, 0.50);"> </div>
+                              style="z-index: 5;background-color:rgba(0, 0, 0, 0.25);border-color:rgba(0, 0, 0, 0.50);"> </div> -->
               <!-- LAYER NR. 1 -->
-              <div class="tp-caption tp-shape tp-shapewrapper   tp-resizeme rs-parallaxlevel-0" 
+             <!-- <div class="tp-caption tp-shape tp-shapewrapper   tp-resizeme rs-parallaxlevel-0" 
                               id="slide-18-layer-9" 
                               data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                               data-y="['middle','middle','middle','middle']" data-voffset="['15','15','15','15']" 
@@ -348,7 +348,7 @@
                               data-mask_out="x:inherit;y:inherit;" 
                               data-start="2000" 
                               data-responsive_offset="on" 
-                              style="z-index: 5;background-color:rgba(29, 29, 29, 0.85);border-color:rgba(0, 0, 0, 0.50);"> </div>
+                              style="z-index: 5;background-color:rgba(29, 29, 29, 0.85);border-color:rgba(0, 0, 0, 0.50);"> </div> -->
               <!-- LAYER NR. 2 -->
               <div class="tp-caption NotGeneric-Title   tp-resizeme rs-parallaxlevel-0" 
                               id="slide-18-layer-1" 

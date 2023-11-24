@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="viewport" content="initial-scale=1, maximum-scale=1">
 <!-- site metas -->
-<title>Whizzstar</title>
+<title>Twintics</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
 <meta name="author" content="">
@@ -50,7 +50,7 @@
             <div class="topbar-left">
               <ul class="list-inline">
                <!-- <li> <span class="topbar-label"><i class="fa  fa-home"></i></span> <span class="topbar-hightlight">540 Lorem Ipsum New York, AB 90218</span> </li> -->
-                <li> <span class="topbar-label"><i class="fa fa-envelope-o"></i></span> <span class="topbar-hightlight"><a href="mailto:admin@whizzstar.com">admin@whizzstar.com</a></span> </li>
+                <li> <span class="topbar-label"><i class="fa fa-envelope-o"></i></span> <span class="topbar-hightlight"><a href="mailto:admin@twintics.com">admin@twintics.com</a></span> </li>
               </ul>
             </div>
           </div>
@@ -444,7 +444,7 @@
         </div>
       </div>
       <div class="cprt">
-        <p>Whizzstar © Copyrights 2023</p>
+        <p>Twintics Solution © Copyrights 2023</p>
       </div>
     </div>
   </div>
