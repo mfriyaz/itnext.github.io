@@ -102,12 +102,13 @@
                     <li><a href="it_service_detail.html">Services Detail</a></li>
                   </ul>
                 </li>
-				<li><a href="it_product.html">Our Products</a></li>
+				<li><a href="it_product.html">Our Products</a>
 				<ul>
                     <li><a href="it_product_list.html">Products list</a></li>
 					<li><a href="it_product_detail.html">Products Detail</a></li>
 				</ul>		
-                <li> <a href="it_blog.html">Blog</a>
+                </li>
+				<li> <a href="it_blog.html">Blog</a>
                   <ul>
                     <li><a href="it_blog.html">Blog List</a></li>
                     <li><a href="it_blog_grid.html">Blog Grid</a></li>
@@ -161,10 +162,10 @@
         <div class="full">
           <div class="title-holder">
             <div class="title-holder-cell text-left">
-              <h1 class="page-title">Services Detail</h1>
+              <h1 class="page-title">Service Detail</h1>
               <ol class="breadcrumb">
                 <li><a href="index.html">Home</a></li>
-                <li class="active">Services Detail</li>
+                <li class="active">Service Detail</li>
               </ol>
             </div>
           </div>
@@ -182,38 +183,43 @@
         <div class="row">
           <div class="col-md-12 service_blog margin_bottom_50">
             <div class="full">
-              <div class="service_img"> <img class="img-responsive" src="images/it_service/post-02.jpg" alt="#" /> </div>
+              <div class="service_img"> <img class="img-responsive" src="images/it_product/post-02.jpg" alt="#" /> </div>
               <div class="service_cont">
-                <h3 class="service_head">Digitalization solution</h3>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                  when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap 
-                  into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum 
-                  passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br>
+                <h3 class="service_head">Digitalization Solution</h3>
+                <p>Video analytics is a powerful tool for optimizing marketing campaigns and increasing ROI. By analyzing viewer behavior and engagement, 
+				businesses can gain valuable insights into the effectiveness of their video content and make data-driven decisions to improve their marketing strategies..<br>
                   <br>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis 
-                  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-                  eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service_detail.html">View Service</a> </div>
+				  i) Identify areas of improvement in video content to increase engagement and retention.<br>
+				  ii)Optimize marketing campaigns by targeting specific demographics and measuring the success of each campaign.<br>
+                  iii)Maximize ROI by analyzing viewer behavior and engagement to make data-driven decisions.<br>
+
+                 >>Improve Retail Performance and Business Sales <br>
+	             By analyzing customer traffic, dwell times, and purchase patterns, retailers can optimize store layouts, product placements, and marketing campaigns to increase sales.
+	             Video analytics can also be used to improve business sales 	presentations by providing data on viewer engagement, attention spans, and preferences. This information can be used to tailor presentations to specific audiences and improve overall effectiveness.
+
+                 >>Improving Store Layout and Design <br>
+	            Video analytics can also be used to analyze customer traffic and behavior within a store, allowing retailers to optimize store layout and design for maximum customer engagement and satisfaction.</p>
+                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_product_detail.html">View Products</a> </div>
               </div>
             </div>
           </div>
           <div class="col-md-6 service_blog margin_bottom_50">
             <div class="full">
-              <div class="service_img"> <img class="img-responsive" src="images/it_service/post-03.jpg" alt="#" /> </div>
+              <div class="service_img"> <img class="img-responsive" src="images/it_product/post-03.jpg" alt="#" /> </div>
               <div class="service_cont">
                 <h3 class="service_head">Mobile Application</h3>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service_detail.html">View Service</a> </div>
+                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_product_detail.html">View Products</a> </div>
               </div>
             </div>
           </div>
           <div class="col-md-6 service_blog margin_bottom_50">
             <div class="full">
-              <div class="service_img"> <img class="img-responsive" src="images/it_service/post-04.jpg" alt="#" /> </div>
+              <div class="service_img"> <img class="img-responsive" src="images/it_product/post-04.jpg" alt="#" /> </div>
               <div class="service_cont">
                 <h3 class="service_head">Software Development</h3>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service_detail.html">View Service</a> </div>
+                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_product_detail.html">View Products</a> </div>
               </div>
             </div>
           </div>
@@ -281,7 +287,7 @@
             <div class="full">
               <div class="service_blog_inner">
                 <div class="icon text_align_left"><img src="images/it_service/si1.png" alt="#"></div>
-                <h4 class="service-heading">E-Brochure Management</h4>
+                <h4 class="service-heading">Fast service</h4>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo.</p>
               </div>
             </div>
@@ -290,7 +296,7 @@
             <div class="full">
               <div class="service_blog_inner">
                 <div class="icon text_align_left"><img src="images/it_service/si2.png" alt="#"></div>
-                <h4 class="service-heading">E-PTW (Permit to Work)</h4>
+                <h4 class="service-heading">Secure payments</h4>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo.</p>
               </div>
             </div>
@@ -299,12 +305,12 @@
             <div class="full">
               <div class="service_blog_inner">
                 <div class="icon text_align_left"><img src="images/it_service/si3.png" alt="#"></div>
-                <h4 class="service-heading">Room/Table Booking System</h4>
+                <h4 class="service-heading">Expert team</h4>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo.</p>
               </div>
             </div>
           </div>
-          <!--<div class="col-md-12">
+          <div class="col-md-12">
             <div class="full" style="margin-top: 15px;">
               <h3>Need file recovery?</h3>
               <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et 
@@ -312,7 +318,7 @@
               <p><a class="btn main_bt" href="#">Read More</a></p>
             </div>
           </div>
-        </div> -->
+        </div>
         <div class="row">
           <div class="col-md-12">
             <div class="full">
@@ -581,14 +587,14 @@
         <div class="row">
           <div class="col-md-6">
             <div class="main-heading left_text">
-              <h2>It Next Theme</h2>
+              <h2>Twintics Solution Sdn Bhd </h2>
             </div>
             <p>Tincidunt elit magnis nulla facilisis. Dolor sagittis maecenas. Sapien nunc amet ultrices, dolores sit ipsum velit purus aliquet, massa fringilla leo orci.</p>
-            <ul class="social_icons">
+            <!--<ul class="social_icons">
               <li class="social-icon fb"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
               <li class="social-icon tw"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
               <li class="social-icon gp"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-            </ul>
+            </ul> -->
           </div>
           <div class="col-md-6">
             <div class="main-heading left_text">
@@ -596,10 +602,11 @@
             </div>
             <ul class="footer-menu">
               <li><a href="it_about.html"><i class="fa fa-angle-right"></i> About us</a></li>
-              <li><a href="it_term_condition.html"><i class="fa fa-angle-right"></i> Terms and conditions</a></li>
+			  <li><a href="it_contact.html"><i class="fa fa-angle-right"></i> Contact us</a></li>
+              <!--<li><a href="it_term_condition.html"><i class="fa fa-angle-right"></i> Terms and conditions</a></li>
               <li><a href="it_privacy_policy.html"><i class="fa fa-angle-right"></i> Privacy policy</a></li>
-              <li><a href="it_news.html"><i class="fa fa-angle-right"></i> News</a></li>
-              <li><a href="it_contact.html"><i class="fa fa-angle-right"></i> Contact us</a></li>
+              <li><a href="it_news.html"><i class="fa fa-angle-right"></i> News</a></li> -->
+              
             </ul>
           </div>
           <div class="col-md-6">
@@ -607,20 +614,20 @@
               <h2>Services</h2>
             </div>
             <ul class="footer-menu">
-              <li><a href="it_data_recovery.html"><i class="fa fa-angle-right"></i> Data recovery</a></li>
-              <li><a href="it_computer_repair.html"><i class="fa fa-angle-right"></i> Computer repair</a></li>
-              <li><a href="it_mobile_service.html"><i class="fa fa-angle-right"></i> Mobile service</a></li>
-              <li><a href="it_network_solution.html"><i class="fa fa-angle-right"></i> Network solutions</a></li>
-              <li><a href="it_techn_support.html"><i class="fa fa-angle-right"></i> Technical support</a></li>
+              <li><a href="it_data_recovery.html"><i class="fa fa-angle-right"></i> Digitalization</a></li>
+              <li><a href="it_computer_repair.html"><i class="fa fa-angle-right"></i> Mobile Applications</a></li>
+              <li><a href="it_mobile_service.html"><i class="fa fa-angle-right"></i> Software Development</a></li>
+              <!--<li><a href="it_network_solution.html"><i class="fa fa-angle-right"></i> Network solutions</a></li>
+              <li><a href="it_techn_support.html"><i class="fa fa-angle-right"></i> Technical support</a></li> -->
             </ul>
           </div>
           <div class="col-md-6">
             <div class="main-heading left_text">
               <h2>Contact us</h2>
             </div>
-            <p>123 Second Street Fifth Avenue,<br>
-              Manhattan, New York<br>
-              <span style="font-size:18px;"><a href="tel:+9876543210">+987 654 3210</a></span></p>
+            <p>123 Second Street Avenue,<br>
+              UBI, Singapore<br>
+              <span style="font-size:18px;"><a href="tel:+9876543210">+65 88394359</a></span></p>
             <div class="footer_mail-section">
               <form>
                 <fieldset>
@@ -635,7 +642,7 @@
         </div>
       </div>
       <div class="cprt">
-        <p>ItNext © Copyrights 2019 Design by html.design</p>
+        <p>Twintics Solution © Copyrights 2023</p>
       </div>
     </div>
   </div>
