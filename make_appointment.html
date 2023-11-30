@@ -188,10 +188,11 @@
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 appointment_form">
               <div class="form_section">
-                <form class="form_contant" action="index.html">
+                <!--<form class="form_contant" action="index.html">-->
+				<form action="https://formspree.io/f/xvojjrnl" method="POST">
                   <fieldset class="row">
                   <div class="field col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <input class="field_custom" placeholder="First Name*" type="text" required>
+                    <input class="field_custom" placeholder="First Name*" type="text" name="username" required>
                   </div>
                   <div class="field col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <input class="field_custom" placeholder="Last Name" type="text" required>
@@ -404,11 +405,22 @@
               UBI, Singapore<br>
               <span style="font-size:18px;"><a href="tel:+9876543210">+65 88394359</a></span></p>
             <div class="footer_mail-section">
-              <form>
+             <!-- <form>
                 <fieldset>
                 <div class="field">
                   <input placeholder="Email" type="text">
                   <button class="button_custom"><i class="fa fa-envelope" aria-hidden="true"></i></button>
+                </div>
+                </fieldset>
+              </form> -->
+			   <form action="https://formspree.io/f/xvojjrnl" method="POST">
+                <fieldset>
+                <div class="field">
+				<!--<label for="username">Username:</label> -->
+				<button class="button_custom"><i class="fa fa-envelope" aria-hidden="true"></i></button><br> <br>
+				<input placeholder="Name" type="text" id="username" name="username" required><br> <br>
+                  <input placeholder="Email" type="text" name="mail"><br><br>
+                  <input type="submit">  
                 </div>
                 </fieldset>
               </form>

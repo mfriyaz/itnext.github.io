@@ -562,11 +562,22 @@
               UBI, Singapore<br>
               <span style="font-size:18px;"><a href="tel:+9876543210">+65 88394359</a></span></p>
             <div class="footer_mail-section">
-              <form>
+              <!--<form>
                 <fieldset>
                 <div class="field">
                   <input placeholder="Email" type="text">
                   <button class="button_custom"><i class="fa fa-envelope" aria-hidden="true"></i></button>
+                </div>
+                </fieldset>
+              </form> -->
+			   <form action="https://formspree.io/f/xvojjrnl" method="POST">
+                <fieldset>
+                <div class="field">
+				<!--<label for="username">Username:</label> -->
+				<button class="button_custom"><i class="fa fa-envelope" aria-hidden="true"></i></button><br> <br>
+				<input placeholder="Name" type="text" id="username" name="username" required><br> <br>
+                  <input placeholder="Email" type="text" name="mail"><br><br>
+                  <input type="submit">  
                 </div>
                 </fieldset>
               </form>

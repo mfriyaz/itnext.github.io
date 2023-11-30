@@ -183,7 +183,7 @@
         <div class="row">
           <div class="col-md-12 service_blog margin_bottom_50">
             <div class="full">
-              <div class="service_img"> <img class="img-responsive" src="images/it_product/post-02.jpg" alt="#" /> </div>
+              <div class="service_img"> <img class="img-responsive" src="images/it_service/post-02.jpg" alt="#" /> </div>
               <div class="service_cont">
                 <h3 class="service_head">Digitalization Solution</h3>
                 <p>Video analytics is a powerful tool for optimizing marketing campaigns and increasing ROI. By analyzing viewer behavior and engagement, 
@@ -205,7 +205,7 @@
           </div>
           <div class="col-md-6 service_blog margin_bottom_50">
             <div class="full">
-              <div class="service_img"> <img class="img-responsive" src="images/it_product/post-03.jpg" alt="#" /> </div>
+              <div class="service_img"> <img class="img-responsive" src="images/it_service/post-03.jpg" alt="#" /> </div>
               <div class="service_cont">
                 <h3 class="service_head">Mobile Application</h3>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
@@ -215,7 +215,7 @@
           </div>
           <div class="col-md-6 service_blog margin_bottom_50">
             <div class="full">
-              <div class="service_img"> <img class="img-responsive" src="images/it_product/post-04.jpg" alt="#" /> </div>
+              <div class="service_img"> <img class="img-responsive" src="images/it_service/post-04.jpg" alt="#" /> </div>
               <div class="service_cont">
                 <h3 class="service_head">Software Development</h3>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
@@ -629,11 +629,22 @@
               UBI, Singapore<br>
               <span style="font-size:18px;"><a href="tel:+9876543210">+65 88394359</a></span></p>
             <div class="footer_mail-section">
-              <form>
+              <!--<form>
                 <fieldset>
                 <div class="field">
                   <input placeholder="Email" type="text">
                   <button class="button_custom"><i class="fa fa-envelope" aria-hidden="true"></i></button>
+                </div>
+                </fieldset>
+              </form> -->
+			   <form action="https://formspree.io/f/xvojjrnl" method="POST">
+                <fieldset>
+                <div class="field">
+				<!--<label for="username">Username:</label> -->
+				<button class="button_custom"><i class="fa fa-envelope" aria-hidden="true"></i></button><br> <br>
+				<input placeholder="Name" type="text" id="username" name="username" required><br> <br>
+                  <input placeholder="Email" type="text"><br><br>
+                  <input type="submit">  
                 </div>
                 </fieldset>
               </form>
