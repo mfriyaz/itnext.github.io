@@ -288,8 +288,8 @@
   </div>
 </div>
 <div class="section padding_layout_1">
-  <div class="container">
-    <div class="row">
+  <!--<div class="container">
+    <!--<div class="row">
       <div class="col-md-12">
         <div class="full">
           <div class="main_heading text_align_left">
@@ -375,10 +375,10 @@
             </div>
           </div>
         </div>
-      </div>
-    </div>
+      </div> 
+    </div> 
   </div>
-</div>
+</div> -->
 <!-- section -->
 <div class="section padding_layout_1 testmonial_section white_fonts">
   <div class="container">
