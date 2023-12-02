@@ -195,19 +195,19 @@
                     <input class="field_custom" placeholder="First Name*" type="text" name="username" required>
                   </div>
                   <div class="field col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <input class="field_custom" placeholder="Last Name" type="text" required>
+                    <input class="field_custom" placeholder="Last Name" name="lastname" type="text" required>
                   </div>
                   <div class="field col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <input class="field_custom" placeholder="Your Email" type="email" required>
+                    <input class="field_custom" placeholder="Your Email" type="email" name="mail" required>
                   </div>
                   <div class="field col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <input class="field_custom" placeholder="Your Phone Number" type="text" required>
+                    <input class="field_custom" placeholder="Your Phone Number" name="contact" type="text" required>
                   </div>
                   <div class="field col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <input class="field_custom" placeholder="Subject" type="text" required>
+                    <input class="field_custom" placeholder="Subject" name="subject" type="text" required>
                   </div>
                   <div class="field col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <textarea class="field_custom" placeholder="Description" required></textarea>
+                    <textarea class="field_custom" placeholder="Description" name="message" required></textarea>
                   </div>
                   <div class="center">
                     <button class="btn main_bt">SUBMIT NOW</button>
@@ -419,7 +419,7 @@
 				<!--<label for="username">Username:</label> -->
 				<button class="button_custom"><i class="fa fa-envelope" aria-hidden="true"></i></button><br> <br>
 				<input placeholder="Name" type="text" id="username" name="username" required><br> <br>
-                  <input placeholder="Email" type="text"><br><br>
+                  <input placeholder="Email" type="text" name="mail"><br><br>
                   <input type="submit">  
                 </div>
                 </fieldset>
