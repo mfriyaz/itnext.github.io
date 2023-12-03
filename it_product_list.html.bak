@@ -274,13 +274,13 @@
 </div>
 <!-- end section -->
 <!-- section -->
-<!--<div class="section padding_layout_1 light_silver">
+<div class="section padding_layout_1 light_silver">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="full">
           <div class="main_heading text_align_left">
-            <h2>Experienced Staff</h2>
+            <!--<h2>Experienced Staff</h2>-->
             <p class="large">Our experts have been featured in press numerous times.</p>
           </div>
         </div>
@@ -288,7 +288,7 @@
     </div>
     <div class="row">
       <div class="col-md-3 col-sm-6">
-        <div class="full team_blog_colum">
+        <!--<div class="full team_blog_colum">
           <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
           <div class="team_feature_head">
             <h4>Dean Michael</h4>
@@ -362,10 +362,10 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
-</div> -->
+</div>
 <!-- end section -->
 <!-- section -->
 <div class="section padding_layout_1 testmonial_section white_fonts">
@@ -535,9 +535,9 @@
               <h2>Services</h2>
             </div>
             <ul class="footer-menu">
-              <li><a href="it_data_recovery.html"><i class="fa fa-angle-right"></i> Digitalization</a></li>
-              <li><a href="it_computer_repair.html"><i class="fa fa-angle-right"></i> Mobile Applications</a></li>
-              <li><a href="it_mobile_service.html"><i class="fa fa-angle-right"></i> Software Development</a></li>
+              <li><a href="it_product.html"><i class="fa fa-angle-right"></i> Video Analytics</a></li>
+              <li><a href="it_product.html"><i class="fa fa-angle-right"></i> VMS</a></li>
+              <li><a href="it_product.html"><i class="fa fa-angle-right"></i> Mustering</a></li>
               <!--<li><a href="it_network_solution.html"><i class="fa fa-angle-right"></i> Network solutions</a></li>
               <li><a href="it_techn_support.html"><i class="fa fa-angle-right"></i> Technical support</a></li> -->
             </ul>
