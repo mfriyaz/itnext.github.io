@@ -236,7 +236,7 @@
               <h4>GET IN TOUCH</h4>
               <p>Our goal is to provide the best customer service and to answer all of your questions in a timely manner.</p>
               <div class="form_section">
-                <!--<form class="form_contant" action="index.html">-->
+                <!--<form class="form_contant" action="index.html">
 				<form action="https://formspree.io/f/xvojjrnl" method="POST">
                   <fieldset>
                   <div class="row">
@@ -250,12 +250,37 @@
                       <input class="field_custom" placeholder="Email adress" type="email" name="mail" required />
                     </div>
                     <div class="field col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                      <input class="field_custom" placeholder="Phone number" type="text" name="Contact" required />
+                      <input class="field_custom" placeholder="Phone number" type="text" name="contact" required />
                     </div>
                     <div class="field col-lg-12 col-md-12 col-sm-12 col-xs-12">
                       <textarea class="field_custom" placeholder="Messager" name="message" required ></textarea>
                     </div>
                     <div class="center"><a class="btn main_bt" href="#">SUBMIT NOW</a></div>
+                  </div>
+                  </fieldset>
+                </form> -->
+				<form action="https://formspree.io/f/xvojjrnl" method="POST">
+                  <fieldset class="row">
+                  <div class="field col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <input class="field_custom" placeholder="First Name*" type="text" name="username" required>
+                  </div>
+                  <div class="field col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <input class="field_custom" placeholder="Last Name" name="lastname" type="text" required>
+                  </div>
+                  <div class="field col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <input class="field_custom" placeholder="Your Email" type="email" name="mail" required>
+                  </div>
+                  <div class="field col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <input class="field_custom" placeholder="Your Phone Number" name="contact" type="text" required>
+                  </div>
+                  <div class="field col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <input class="field_custom" placeholder="Subject" name="subject" type="text" required>
+                  </div>
+                  <div class="field col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <textarea class="field_custom" placeholder="Description" name="message" required></textarea>
+                  </div>
+                  <div class="center">
+                    <button class="btn main_bt">SUBMIT NOW</button>
                   </div>
                   </fieldset>
                 </form>
@@ -435,9 +460,9 @@
               <h2>Services</h2>
             </div>
             <ul class="footer-menu">
-              <li><a href="it_data_recovery.html"><i class="fa fa-angle-right"></i> Digitalization</a></li>
-              <li><a href="it_computer_repair.html"><i class="fa fa-angle-right"></i> Mobile Applications</a></li>
-              <li><a href="it_mobile_service.html"><i class="fa fa-angle-right"></i> Software Development</a></li>
+              <li><a href="it_service.html"><i class="fa fa-angle-right"></i> Digitalization</a></li>
+              <li><a href="it_service.html"><i class="fa fa-angle-right"></i> Mobile Applications</a></li>
+              <li><a href="it_service.html"><i class="fa fa-angle-right"></i> Software Development</a></li>
               <!--<li><a href="it_network_solution.html"><i class="fa fa-angle-right"></i> Network solutions</a></li>
               <li><a href="it_techn_support.html"><i class="fa fa-angle-right"></i> Technical support</a></li> -->
             </ul>
