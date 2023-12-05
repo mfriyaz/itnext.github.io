@@ -245,9 +245,7 @@
                       </div>
                       <div id="collapseThree" class="panel-collapse collapse">
                         <div class="panel-body">
-                          <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it 
-                            over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, 
-                            consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. </p>
+                          <p>The MUSTERING SYSTEM is also beneficial for other industries, including oil and gas, mining, and construction. By customizing the system to fit the specific needs of each industry, companies can improve safety measures and increase efficiency.. </p>
                         </div>
                       </div>
                     </div>
@@ -295,14 +293,14 @@
               </div>
             </div>
           </div>
-          <!--<div class="col-md-12">
-            <div class="full" style="margin-top: 15px;">
+          <div class="col-md-12">
+            <!--<div class="full" style="margin-top: 15px;">
               <h3>Need file recovery?</h3>
               <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et 
                 quasi architecto beatae vitae dicta sunt explicabo.. </p>
               <p><a class="btn main_bt" href="#">Read More</a></p>
-            </div>
-          </div>-->
+            </div> -->
+          </div>
         </div>
         <div class="row">
           <div class="col-md-12">
@@ -369,7 +367,7 @@
                     <li><a class="fa fa-instagram" href="https://www.instagram.com" title="Instagram" target="_blank"></a></li>
                   </ul>
                 </div>
-              </div>
+              </div> 
             </div> -->
           </div>
         </div>
