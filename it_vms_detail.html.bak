@@ -249,13 +249,12 @@
                     </div>
                     <div class="panel panel-default">
                       <div class="panel-heading">
-                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree"><i class="fa fa-star"></i> Mobile Phone Recovery<i class="fa fa-angle-down"></i></a> </p>
+                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree"><i class="fa fa-star"></i> Get Started with Our Visitor Management System Today <i class="fa fa-angle-down"></i></a> </p>
                       </div>
                       <div id="collapseThree" class="panel-collapse collapse">
                         <div class="panel-body">
-                          <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it 
-                            over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, 
-                            consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. </p>
+                          <p>Our visitor management system is the future of workplace security. With automated check-in, instant notifications, and customizable badges, our system provides a seamless and efficient way to manage visitors.
+                             Don't miss out on the opportunity to revolutionize your workplace with our technology. Sign up today and experience the benefits for yourself. </p>
                         </div>
                       </div>
                     </div>
