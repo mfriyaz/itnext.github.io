@@ -603,9 +603,9 @@
               <h2>Services</h2>
             </div>
             <ul class="footer-menu">
-              <li><a href="it_data_recovery.html"><i class="fa fa-angle-right"></i> Digitalization</a></li>
-              <li><a href="it_computer_repair.html"><i class="fa fa-angle-right"></i> Mobile Applications</a></li>
-              <li><a href="it_mobile_service.html"><i class="fa fa-angle-right"></i> Software Development</a></li>
+              <li><a href="it_digitalization_detail.html"><i class="fa fa-angle-right"></i> Digitalization</a></li>
+              <li><a href="it_mobile_detail.html"><i class="fa fa-angle-right"></i> Mobile Applications</a></li>
+              <li><a href="it_software_detail.html"><i class="fa fa-angle-right"></i> Software Development</a></li>
               <!--<li><a href="it_network_solution.html"><i class="fa fa-angle-right"></i> Network solutions</a></li>
               <li><a href="it_techn_support.html"><i class="fa fa-angle-right"></i> Technical support</a></li> -->
             </ul>

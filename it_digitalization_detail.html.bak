@@ -208,7 +208,7 @@
               <div class="service_img"> <img class="img-responsive" src="images/it_service/post-04.jpg" alt="#" /> </div>
               <div class="service_cont">
                 <h3 class="service_head">Software Development</h3>
-                <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+                <p>Application development is the process of gathering business requirements, designing, prototyping, coding, testing and ongoing improvements and debugging of software.</p>
                 <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service.html">View Services</a> </div>
               </div>
             </div>
@@ -604,9 +604,9 @@
               <h2>Services</h2>
             </div>
             <ul class="footer-menu">
-              <li><a href="it_data_recovery.html"><i class="fa fa-angle-right"></i> Digitalization</a></li>
-              <li><a href="it_computer_repair.html"><i class="fa fa-angle-right"></i> Mobile Applications</a></li>
-              <li><a href="it_mobile_service.html"><i class="fa fa-angle-right"></i> Software Development</a></li>
+              <li><a href="it_digitalization_detail.html"><i class="fa fa-angle-right"></i> Digitalization</a></li>
+              <li><a href="it_mobile_detail.html"><i class="fa fa-angle-right"></i> Mobile Applications</a></li>
+              <li><a href="it_software_detail.html"><i class="fa fa-angle-right"></i> Software Development</a></li>
               <!--<li><a href="it_network_solution.html"><i class="fa fa-angle-right"></i> Network solutions</a></li>
               <li><a href="it_techn_support.html"><i class="fa fa-angle-right"></i> Technical support</a></li> -->
             </ul>
