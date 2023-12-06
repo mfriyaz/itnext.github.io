@@ -283,7 +283,7 @@
         <div class="full">
           <div class="main_heading text_align_left">
             <h2>About Service</h2>
-            <p class="large">Easy and effective way to get your device repaired.</p>
+            <p class="large">We'll help to manage your business.</p>
           </div>
         </div>
       </div>
@@ -296,7 +296,7 @@
               <div class="service_blog_inner2">
                 <div class="icon text_align_left"><i class="fa fa-wrench"></i></div>
                 <h4 class="service-heading">Honest Services</h4>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusa ntium dolore mque.</p>
+                <p>It involves providing accurate information, delivering promised services or products, and maintaining open communication channels to build trust and credibility.</p>
               </div>
             </div>
           </div>
@@ -305,7 +305,7 @@
               <div class="service_blog_inner2">
                 <div class="icon text_align_left"><i class="fa fa-cog"></i></div>
                 <h4 class="service-heading">Secure payments</h4>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusa ntium dolore mque.</p>
+                <p>Ensuring secure payments is not only essential for protecting customer data but also for maintaining trust and upholding the reputation of businesses involved in handling transactions.</p>
               </div>
             </div>
           </div>
@@ -314,7 +314,7 @@
               <div class="service_blog_inner2">
                 <div class="icon text_align_left"><i class="fa fa-history"></i></div>
                 <h4 class="service-heading">Expert team</h4>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusa ntium dolore mque.</p>
+                <p>teams often play a vital role in driving innovation, problem-solving, and advancing their respective fields through their collective knowledge and capabilities.</p>
               </div>
             </div>
           </div>
@@ -323,7 +323,7 @@
               <div class="service_blog_inner2">
                 <div class="icon text_align_left"><i class="fa fa-heart-o"></i></div>
                 <h4 class="service-heading">Affordable services</h4>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusa ntium dolore mque.</p>
+                <p>SThe goal of affordable services is to make valuable products or solutions accessible to a broader audience while maintaining a balance between price, quality, and value.</p>
               </div>
             </div>
           </div>
@@ -339,8 +339,8 @@
       <div class="col-md-12">
         <div class="full">
           <div class="main_heading text_align_left">
-            <!--<h2>Experienced Staff</h2> -->
-            <p class="large">Our experts have been featured in press numerous times.</p>
+            <!--<h2>Experienced Staff</h2>
+            <p class="large">Our experts have been featured in press numerous times.</p>-->
           </div>
         </div>
       </div>
@@ -453,31 +453,31 @@
               <div class="carousel-item active">
                 <div class="testimonial-container">
                   <div class="testimonial-content"> You guys rock! Thank you for making it painless, pleasant and most of all hassle free! I wish I would have thought of it first. 
-                    I am really satisfied with my first laptop service.</div>
+                    I am really satisfied with my first laptop service. </div>
                   <div class="testimonial-photo"> <img src="images/it_service/client1.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
                   <div class="testimonial-meta">
-                    <h4>Maria Anderson</h4>
-                    <span class="testimonial-position">CFO, Tech NY</span> </div>
+                    <h4>Twintics</h4>
+                    <span class="testimonial-position">Support Team</span> </div>
                 </div>
               </div>
               <div class="carousel-item">
                 <div class="testimonial-container">
                   <div class="testimonial-content"> You guys rock! Thank you for making it painless, pleasant and most of all hassle free! I wish I would have thought of it first. 
-                    I am really satisfied with my first laptop service.</div>
+                    I am really satisfied with my first laptop service. </div>
                   <div class="testimonial-photo"> <img src="images/it_service/client2.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
                   <div class="testimonial-meta">
-                    <h4>Maria Anderson</h4>
-                    <span class="testimonial-position">CFO, Tech NY</span> </div>
+                    <h4>Twintics</h4>
+                    <span class="testimonial-position">Support Team</span> </div>
                 </div>
               </div>
               <div class="carousel-item">
                 <div class="testimonial-container">
                   <div class="testimonial-content"> You guys rock! Thank you for making it painless, pleasant and most of all hassle free! I wish I would have thought of it first. 
-                    I am really satisfied with my first laptop service.</div>
+                    I am really satisfied with my first laptop service. </div>
                   <div class="testimonial-photo"> <img src="images/it_service/client3.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
                   <div class="testimonial-meta">
-                    <h4>Maria Anderson</h4>
-                    <span class="testimonial-position">CFO, Tech NY</span> </div>
+                    <h4>Twintics</h4>
+                    <span class="testimonial-position">Support Team</span> </div>
                 </div>
               </div>
             </div>

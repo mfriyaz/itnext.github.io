@@ -947,8 +947,8 @@
                     I am really satisfied with my first laptop service. </div>
                   <div class="testimonial-photo"> <img src="images/it_service/client1.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
                   <div class="testimonial-meta">
-                    <h4>Maria Anderson</h4>
-                    <span class="testimonial-position">CFO, Tech NY</span> </div>
+                    <h4></h4>
+                    <span class="testimonial-position">Support</span> </div>
                 </div>
               </div>
               <div class="carousel-item">
@@ -958,7 +958,7 @@
                   <div class="testimonial-photo"> <img src="images/it_service/client2.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
                   <div class="testimonial-meta">
                     <h4>Maria Anderson</h4>
-                    <span class="testimonial-position">CFO, Tech NY</span> </div>
+                    <span class="testimonial-position">Support Team</span> </div>
                 </div>
               </div>
               <div class="carousel-item">
@@ -968,7 +968,7 @@
                   <div class="testimonial-photo"> <img src="images/it_service/client3.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
                   <div class="testimonial-meta">
                     <h4>Maria Anderson</h4>
-                    <span class="testimonial-position">CFO, Tech NY</span> </div>
+                    <span class="testimonial-position">Support Team</span> </div>
                 </div>
               </div>
             </div>
@@ -1059,7 +1059,7 @@
             <div class="main-heading left_text">
               <h2>Twintics Solution Sdn Bhd</h2>
             </div>
-            <p>Tincidunt elit magnis nulla facilisis. Dolor sagittis maecenas. Sapien nunc amet ultrices, dolores sit ipsum velit purus aliquet, massa fringilla leo orci.</p>
+            <p>Twintics is highly experienced and fastest growing one stop digital solution provider as Software Development Company and AI Solutions consultancy.</p>
             <!--<ul class="social_icons">
               <li class="social-icon fb"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
               <li class="social-icon tw"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>

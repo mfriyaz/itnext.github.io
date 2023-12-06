@@ -254,13 +254,11 @@
                     </div>
                     <div class="panel panel-default">
                       <div class="panel-heading">
-                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour"><i class="fa fa-bar-chart" aria-hidden="true"></i> Complete Recovery from Local & External Drive<i class="fa fa-angle-down"></i></a> </p>
+                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour"><i class="fa fa-bar-chart" aria-hidden="true"></i> EzDigital Platform<i class="fa fa-angle-down"></i></a> </p>
                       </div>
                       <div id="collapseFour" class="panel-collapse collapse in">
                         <div class="panel-body">
-                          <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it 
-                            over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, 
-                            consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. </p>
+                          <p>All the Brochures has been grouped in one place to access for public anytime.Viewers can filter the brochures based on the categorization, language and more. </p>
                         </div>
                       </div>
                     </div>
