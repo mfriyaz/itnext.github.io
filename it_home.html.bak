@@ -366,7 +366,7 @@
             <div class="icon"> <img src="images/it_service/i1.png" alt="#" /> </div>
           </div>
           <h4 class="theme_color">Analytics</h4>
-          <p>Perspiciatis eos quos totam cum minima aut!</p>
+          <p>It involves analyzing data to determine the root cause of certain outcomes!</p>
         </div>
       </div>
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
@@ -374,8 +374,8 @@
           <div class="center">
             <div class="icon"> <img src="images/it_service/i2.png" alt="#" /> </div>
           </div>
-          <h4 class="theme_color">Visitor Management Applications</h4>
-          <p>Perspiciatis eos quos totam cum minima aut!</p>
+          <h4 class="theme_color">Visitor Management</h4>
+          <p>It helps organizations enhance security, streamline visitor registration!</p>
         </div>
       </div>
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
@@ -384,7 +384,7 @@
             <div class="icon"> <img src="images/it_service/i3.png" alt="#" /> </div>
           </div>
           <h4 class="theme_color">Mobile Applications</h4>
-          <p>Perspiciatis eos quos totam cum minima aut!</p>
+          <p>Become an integral part of daily life, offering convenience, and solutions to various needs.!</p>
         </div>
       </div>
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
@@ -497,7 +497,7 @@
           <div class="product_img"> <img class="img-responsive" src="images/it_service/1.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
-              <h4><a href="it_shop_detail.html">video Analytics</a></h4>
+              <h4><a href="it_video_analytics.html">video Analytics</a></h4>
             </div>
             <div class="starratin">
               <div class="center"> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </div>
@@ -512,7 +512,7 @@
           <div class="product_img"> <img class="img-responsive" src="images/it_service/2.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
-              <h4><a href="it_shop_detail.html">Visitor Management Systems</a></h4>
+              <h4><a href="it_vms_detail.html">Visitor Management Systems</a></h4>
             </div>
             <div class="starratin">
               <div class="center"> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </div>
@@ -527,7 +527,7 @@
           <div class="product_img"> <img class="img-responsive" src="images/it_service/3.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
-              <h4><a href="it_shop_detail.html">Mustering</a></h4>
+              <h4><a href="it_mustering.html">Mustering</a></h4>
             </div>
             <div class="starratin">
               <div class="center"> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </div>
@@ -542,7 +542,7 @@
           <div class="product_img"> <img class="img-responsive" src="images/it_service/4.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
-              <h4><a href="it_shop_detail.html">Mobile Applications</a></h4>
+              <h4><a href="it_mobile_detail.html">Mobile Applications</a></h4>
             </div>
             <div class="starratin">
               <div class="center"> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </div>
