@@ -146,7 +146,7 @@
               <div class="service_cont">
                 <h3 class="service_head">Digitalization Solution</h3>
                 <p>Our focus is to make sure that the linkages between the different aspects of your organization exist in an optimized, secure and trusted environment.</p>
-                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service.html">View Service</a> </div>
+                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_digitalization_detail.html">View Service</a> </div>
               </div>
             </div>
           </div>
@@ -156,7 +156,7 @@
               <div class="service_cont">
                 <h3 class="service_head">Mobile Application</h3>
                 <p>Mobile application development is the process of creating software applications that run on a mobile device and work with remote computing resources.</p>
-                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service.html">View Service</a> </div>
+                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_mobile_detail.html">View Service</a> </div>
               </div>
             </div>
           </div>
@@ -169,31 +169,27 @@
                   <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                       <div class="panel-heading">
-                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><i class="fa fa-bar-chart" aria-hidden="true"></i> Complete Recovery from Local & External Drive<i class="fa fa-angle-down"></i></a> </p>
+                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><i class="fa fa-bar-chart" aria-hidden="true"></i> Data Management<i class="fa fa-angle-down"></i></a> </p>
                       </div>
                       <div id="collapseOne" class="panel-collapse collapse">
                         <div class="panel-body">
-                          <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it 
-                            over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, 
-                            consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. </p>
+                          <p>involves functionalities for creating, reading, updating, and deleting data (CRUD operations). It may include databases, file handling, or cloud storage integration.. </p>
                         </div>
                       </div>
                     </div>
                     <div class="panel panel-default">
                       <div class="panel-heading">
-                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"><i class="fa fa-plane"></i> Recovery Photo, Image, Video and Audio<i class="fa fa-angle-down"></i></a> </p>
+                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"><i class="fa fa-plane"></i> Integration and APIs<i class="fa fa-angle-down"></i></a> </p>
                       </div>
                       <div id="collapseTwo" class="panel-collapse collapse">
                         <div class="panel-body">
-                          <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it 
-                            over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, 
-                            consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. </p>
+                          <p>Integration capabilities allow the software to communicate and work with other applications or services via APIs (Application Programming Interfaces).. </p>
                         </div>
                       </div>
                     </div>
                     <div class="panel panel-default">
                       <div class="panel-heading">
-                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree"><i class="fa fa-star"></i> Mobile Phone Recovery<i class="fa fa-angle-down"></i></a> </p>
+                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree"><i class="fa fa-star"></i> Reporting and Analytics<i class="fa fa-angle-down"></i></a> </p>
                       </div>
                       <div id="collapseThree" class="panel-collapse collapse">
                         <div class="panel-body">

@@ -146,7 +146,7 @@
               <div class="service_cont">
                 <h3 class="service_head">Digitalization Solution</h3>
                 <p>Our focus is to make sure that the linkages between the different aspects of your organization exist in an optimized, secure and trusted environment.</p>
-                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service.html">View Service</a> </div>
+                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_digitalization_detail.html">View Service</a> </div>
               </div>
             </div>
           </div>
@@ -156,7 +156,7 @@
               <div class="service_cont">
                 <h3 class="service_head">Software Development</h3>
                 <p>Application development is the process of gathering business requirements, designing, prototyping, coding, testing and ongoing improvements and debugging of software.</p>
-                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service.html">View Service</a> </div>
+                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_software_detail.html">View Service</a> </div>
               </div>
             </div>
           </div>
@@ -169,25 +169,21 @@
                   <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                       <div class="panel-heading">
-                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><i class="fa fa-bar-chart" aria-hidden="true"></i> Complete Recovery from Local & External Drive<i class="fa fa-angle-down"></i></a> </p>
+                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><i class="fa fa-bar-chart" aria-hidden="true"></i> Cntuitive User Interface (UI) and User Experience (UX)<i class="fa fa-angle-down"></i></a> </p>
                       </div>
                       <div id="collapseOne" class="panel-collapse collapse">
                         <div class="panel-body">
-                          <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it 
-                            over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, 
-                            consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. </p>
+                          <p>A visually appealing and user-friendly interface optimized for mobile devices, ensuring easy navigation and smooth interaction. </p>
                         </div>
                       </div>
                     </div>
                     <div class="panel panel-default">
                       <div class="panel-heading">
-                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"><i class="fa fa-plane"></i> Recovery Photo, Image, Video and Audio<i class="fa fa-angle-down"></i></a> </p>
+                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"><i class="fa fa-plane"></i> Offline Functionality<i class="fa fa-angle-down"></i></a> </p>
                       </div>
                       <div id="collapseTwo" class="panel-collapse collapse">
                         <div class="panel-body">
-                          <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it 
-                            over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, 
-                            consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. </p>
+                          <p>Ability to access certain features or content without an internet connection, enhancing usability in low-connectivity areas. </p>
                         </div>
                       </div>
                     </div>
