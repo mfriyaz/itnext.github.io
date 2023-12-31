@@ -144,7 +144,7 @@
               <div class="service_cont">
                 <h3 class="service_head">Video Analytics</h3>
                 <p>Video analytics is a powerful tool for optimizing marketing campaigns and increasing ROI.</p>
-                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_product.html">View Products</a> </div>
+                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_video_analytics.html">View Products</a> </div>
               </div>
             </div>
           </div>
@@ -154,7 +154,7 @@
               <div class="service_cont">
                 <h3 class="service_head">VMS</h3>
                 <p>A visitor management system offers a more secure and efficient solution by automating the check-in/out process.</p>
-                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_product.html">View Products</a> </div>
+                <div class="bt_cont"> <a class="btn sqaure_bt" href="it_vms_detail.html">View Products</a> </div>
               </div>
             </div>
           </div>
